@@ -7,7 +7,7 @@
 <br />
 🌱 I’m currently learning JAVA and MATLAB.
 <br />
-❤ In the future I want to work as a web-developer.
+👩🏻‍💻 In the future I want to work as a web developer.
 <br />
 📫 How to reach me: miroslavashevskaya12@gmail.com
 
