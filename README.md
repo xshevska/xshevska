@@ -5,7 +5,7 @@
 
 🔭 I am currently working on learning the Java language and the principles of Object Oriented Programming because it is very interesting!
 <br />
-🌱 I’m currently learning JAVA and MATLAB.
+🌱 I’m currently learning JAVA, JavaScript, HTML/CSS, Spring Boot.
 <br />
 👩🏻‍💻 In the future I want to work as a web developer.
 <br />
