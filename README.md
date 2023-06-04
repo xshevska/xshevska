@@ -3,13 +3,14 @@
 <h3 align="center">I am studying in Bratislava at the STU in the Faculty of Electrical Engineering and Informatics. I am from Ukraine. And I'm very happy to see you here. </h3>
 
 
-🔭 I am currently working on learning the Java language and the principles of Object Oriented Programming because it is very interesting!
+🔭 I'm currently engaged in the fascinating journey of learning Java and the principles of Object-Oriented Programming - the complexity of the discipline has sparked my interest and ignited my passion for coding!
 <br />
-🌱 I’m currently learning JAVA, JavaScript, HTML/CSS, Spring Boot.
+🌱 Currently, my learning palette includes JAVA, JavaScript, HTML/CSS, and Spring Boot - each language a different tool, each adding a unique color to my coding canvas.
 <br />
-👩🏻‍💻 In the future I want to work as a web developer.
+👩🏻‍💻 Looking ahead, I aspire to apply my skills in a practical setting as a web developer - to create, to innovate, and to make an impact.
 <br />
-📫 How to reach me: miroslavashevskaya12@gmail.com
+📫 Should you wish to connect or collaborate, please reach out to me at miroslavashevskaya12@gmail.com.
+<br />
 
 
 
